@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mayank2101
+- 👋 Hi, I’m Mayank Kahar 
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning MERN Stack 
 - 💞️ I’m looking to collaborate on someone for who actually learn JavaScript.
