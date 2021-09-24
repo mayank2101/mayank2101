@@ -40,7 +40,7 @@ I'm Mayank Kahar a IT student from JEC Jabalpur. I'm always ready to work with n
 - Code Editor: VSCode, Sublime
 - To Stay Updated: Youtube, Medium and Dev
 
-## ⭐Github Status
+## ⭐Github Stats
 
 ![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayank2101&show_icons=true&theme=radical)
 
