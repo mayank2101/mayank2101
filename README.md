@@ -1,13 +1,13 @@
 
 # 😎 HELLO, folks! 
 
-I'm Mayank Kahar a IT student from JEC Jabalpur. I'm always ready to work with new Techs Topics & Ideas etc. I read, listen to music, play video games, stream anime or do something new and creative in my spare time.
+I'm Mayank Kahar an IT student from JEC Jabalpur. I'm always ready to work with new Techs Topics & Ideas etc. I read, listen to music, play video games, stream anime or do something new and creative in my spare time.
 
 
 ## ⭐ About Me 
 
 - I’m currently pursuing Btech in Jabalpur Engineering College, Jabalpur.
-- I'm currently learning Full Stack Web development.
+- I'm currently learning ReactJS and Backend development.
 - I’m looking to collaborate on projects and help with internships.
 - Feel free and Ask me anything.
 
