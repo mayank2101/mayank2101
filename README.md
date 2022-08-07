@@ -8,7 +8,6 @@ I'm Mayank Kahar an IT student from JEC Jabalpur. I'm always ready to work with 
 
 - Completed BTech from JEC Jabalpur Engineering College.
 - I'm currently learning ReactJS and Backend development.
-- I’m looking to collaborate on projects and help with internships.
 - Feel free and Ask me anything.
 
   
