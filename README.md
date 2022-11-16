@@ -1,13 +1,20 @@
 
 # 😎 HELLO, folks! 
 
-I'm Mayank Kahar an IT student from JEC Jabalpur. I'm always ready to work with new Techs Topics & Ideas etc. I read, listen to music, play video games, stream anime or do something new and creative in my spare time.
+Hello, I'm currently seeking an entry-level role in Tech Industry (Software Developer / Web Developer).
+
+I graduated from Jabalpur Engineering College in July 2022 with a major in Information Technology. While at Jabalpur Engineering College, I established and grew my passion for Problem solving-skill, playing Online games, design-skill, and thinking innovative. Some of the courses that fascinated me most were DBMS, Data Structure, and Algorithm. 
+
+Hands-on Experience in ReactJS, HTML, and CSS.
+I have a keen interest in Java, C++, Git/GitHub, DBMS, Oops Concept, Data Structure and Algorithm, Javascript, SQL, Php, Linux, and Vs Code.
+
+I have done many projects using Frontend key skills like Html, CSS, Javascript, and Bootstrap framework. I have also mentioned this in my Resume.
 
 
 ## ⭐ About Me 
 
-- Completed BTech from JEC Jabalpur Engineering College.
-- I'm currently learning ReactJS and Backend development.
+- Graduated from JEC Jabalpur Engineering College.
+- I'm currently learning new technology and explore backend development skills.
 - Feel free and Ask me anything.
 
   
